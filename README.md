@@ -33,7 +33,7 @@ This script authenticates with the Gmail API, fetches the latest emails from you
 
 ## 📥 Sample Output
 
-See `samples/sample_output.json` for example email threads with metadata and cleaned body content.
+See `sample_output.png` for example email threads with metadata and cleaned body content.
 
 ---
 
